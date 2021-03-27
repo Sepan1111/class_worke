@@ -1,0 +1,80 @@
+header{
+    background-color: blue;
+    border: 2px solid black;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(81, 81, 119);
+    border: 2px solid black;
+    width: 85%;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav ul li{
+    display: inline;
+    text-align: center;
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 0px 10px 0 55px;
+}
+section{
+    background-color: rgb(14, 92, 92);
+    border: 2px solid black;
+    width: 67%;
+    margin-bottom: 5px;
+    padding: 10px;
+    height: 130px;
+}
+section h3{
+    text-align: center;
+}
+section p{
+    text-align: justify;
+}
+article{
+    background-color: rgb(14, 92, 92);
+    border: 2px solid black;
+    width: 67%;
+    margin-bottom: 5px;
+    padding: 50px 10px 10px 10px;
+    text-align: center;
+    height: 100px;
+}
+aside{
+    background-color: rgb(95, 59, 92);
+    border: 2px solid black;
+    width: 20%;
+    margin-bottom: 5px;
+    float: right;
+    padding: 120px 50px 120px 50px;
+    height: 120px;
+    text-align: center;
+}
+.a{
+    margin-bottom: 5px;
+    width: 50%;
+    height: 50%;
+}
+.b{
+    margin-bottom: 5px;
+    width: 50%;
+    height: 50%;
+}
+.c{
+    width: 50%;
+    height: 50%;
+    margin-bottom: 5px;
+}
+footer{
+    position: fixed;
+    text-align: center;
+    background: #1a2e1d;
+    color: #fff;
+    width: 99%;
+    height: 30px;
+    padding-top: 15px;
+    border: 2px solid black;
+}
